@@ -1,2 +1,3 @@
-# herokuTest
-Sails app for Heroku deployment testing
+# test
+
+a [Sails](http://sailsjs.org) application
